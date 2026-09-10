@@ -1,13 +1,13 @@
-### Hi, I'm Jianyu Wu (William) 👋
+### Hi, I'm Jianyu Wu 👋
 
-Full-stack builder in Beijing. Fifteen years of frontend engineering and architecture at Baidu, 58.com, Didi, Kuaishou and Mobvista, where I led international frontend teams and built ad-delivery platforms, micro-frontend workbenches and server-driven UI systems. Since mid-2025 I build my own products, end to end, with LLMs in the loop.
+I build **Answerward**, AI search visibility (GEO) for brands going global: getting them cited by ChatGPT, Perplexity and Google AI Overviews. Before that, fifteen years of frontend engineering and architecture at Baidu, 58.com, Didi, Kuaishou and Mobvista, leading international frontend teams and building ad-delivery platforms, micro-frontend workbenches and server-driven UI systems. Based in Beijing.
 
 #### What I'm building now
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **[AskGTO](https://www.askgto.com)** | AI poker coach: voice, text or screenshot in, GTO-grounded advice with a plain-language explanation out. Next.js · Node · PostgreSQL · Redis · Capacitor. | Live |
 | **Answerward** | GEO (Generative Engine Optimization) service: getting brands cited by ChatGPT, Perplexity and AI Overviews. Research, delivery playbooks and sampling tools. | Validating with first clients |
+| **[AskGTO](https://www.askgto.com)** | AI poker coach: voice, text or screenshot in, GTO-grounded advice with a plain-language explanation out. Next.js · Node · PostgreSQL · Redis · Capacitor. | Live |
 | **China Trip Reality Check** | A $49 human review of AI-generated China itineraries for foreign travelers. Solo service, 24h turnaround. | Live, testing acquisition |
 
 #### How I work
@@ -19,13 +19,13 @@ Full-stack builder in Beijing. Fifteen years of frontend engineering and archite
 
 #### Writing
 
-I write a Chinese series on poker fundamentals and decision-making on Xiaohongshu as **程序员 K 的博弈论** (game theory for programmers). Game theory, expected value and bankroll thinking, aimed at people who write code for a living.
+I write a Chinese column on poker fundamentals and decision-making on Xiaohongshu, **程序员K的博弈论** (game theory for programmers), under my own name 吴剑宇. Game theory, expected value and bankroll thinking, aimed at people who write code for a living.
 
 #### Elsewhere
 
 - Product: [askgto.com](https://www.askgto.com)
-- LinkedIn: [programerk-wu](https://www.linkedin.com/in/programerk-wu)
-- X: [@victtor41341493](https://x.com/victtor41341493)
+- LinkedIn: [jianyu-wu](https://www.linkedin.com/in/jianyu-wu)
+- X: [@jianyu_wu](https://x.com/jianyu_wu)
 - Mail: wujianyuvip@gmail.com
 
 <sub>Most of my current work lives in private repos. Ask if you want a walkthrough.</sub>
