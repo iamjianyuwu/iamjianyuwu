@@ -24,8 +24,8 @@ I write a Chinese column on poker fundamentals and decision-making on Xiaohongsh
 #### Elsewhere
 
 - Product: [askgto.com](https://www.askgto.com)
-- LinkedIn: [jianyuwu](https://www.linkedin.com/in/jianyuwu)
-- X: [@jianyuwu](https://x.com/jianyuwu)
+- LinkedIn: [jianyu-wu](https://www.linkedin.com/in/jianyu-wu)
+- X: [@jianyu_wu](https://x.com/jianyu_wu)
 - Mail: wujianyuvip@gmail.com
 
 <sub>Most of my current work lives in private repos. Ask if you want a walkthrough.</sub>
