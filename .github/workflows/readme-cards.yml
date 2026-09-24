@@ -17,15 +17,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Set a GRS_TOKEN secret (a PAT) to include private contributions;
-      # without it the card falls back to GITHUB_TOKEN and public stats only.
+      # Set a GRS_TOKEN secret (a PAT) to include private contributions.
+      # Without it the card falls back to GITHUB_TOKEN, which can only read
+      # public stats, so the private-only options are dropped.
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=transparent${{ secrets.GRS_TOKEN && '&count_private=true&include_all_commits=true' || '' }}
           path: profile/stats.svg
           token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      # Never replace a good card with an error card.
+      - name: Check card
+        run: |
+          if grep -q "Something went wrong" profile/stats.svg; then
+            grep -o '>[^<>]*<' profile/stats.svg
+            exit 1
+          fi
 
       - name: Commit cards
         run: |
