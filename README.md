@@ -1,5 +1,10 @@
 ### Hi, I'm Jianyu Wu 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamjianyuwu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamjianyuwu)
+[![X](https://img.shields.io/badge/X-@iamjianyuwu-000000?style=flat&logo=x&logoColor=white)](https://x.com/iamjianyuwu)
+[![Email](https://img.shields.io/badge/Email-wujianyuvip%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wujianyuvip@gmail.com)
+![Based in Beijing](https://img.shields.io/badge/Based%20in-Beijing-555555?style=flat)
+
 I'm building **Answerward**, which helps brands going global show up in AI search (GEO) by getting them cited by ChatGPT, Perplexity and Google AI Overviews.
 
 Before this, I spent fifteen years as a software architect at Baidu, 58.com, Didi, Kuaishou and Mobvista. I led international engineering teams and built ad-delivery platforms, micro-frontend workbenches and server-driven UI systems. Now I run a one-person company (OPC) from Beijing and build in public.
@@ -21,6 +26,13 @@ Before this, I spent fifteen years as a software architect at Baidu, 58.com, Did
 #### Writing
 
 On Xiaohongshu I write **程序员K的博弈论** (Game Theory for Programmers), a Chinese column published under my real name, 吴剑宇. It uses poker to teach decision-making (game theory, expected value, bankroll management) to people who write code for a living.
+
+#### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamjianyuwu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Jianyu's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=iamjianyuwu&hide_border=true&theme=transparent" alt="Jianyu's GitHub streak" />
+</p>
 
 #### Elsewhere
 
