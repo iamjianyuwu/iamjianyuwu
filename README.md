@@ -30,6 +30,7 @@ On Xiaohongshu I write **程序员K的博弈论** (Game Theory for Programmers),
 #### GitHub stats
 
 <p>
+  <img height="165" src="./profile/stats.svg" alt="Jianyu's GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=iamjianyuwu&hide_border=true&theme=transparent" alt="Jianyu's GitHub streak" />
 </p>
 
